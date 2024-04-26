@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href="styling_file.css" rel="stylesheet">
+  	</head>
+	<body>
+		<div class="Heading_back">
+  			<h1>Jozi Fashion Collection</h1>
+  			<h3>Where kasi flare meets innovative design</h3>
+		</div>
+		<div style="overflow:auto">
+  			<div class="menu">
+    				<button type="button"><a href="Home_Page_Draft.html">Home</a></button>
+    				<button type="button"><a href="About_Us.html">About Us</a></button>
+    				<button type="button"><a href="Product_Category0.html">Product Category</a></button>
+    				<button type="button"><a href="Shopping_Category.html">Shopping Category</a></button>
+    				<button type="button"><a href="Contact_Us.html">Contact Us</a></button>
+  			</div>
+			<div class="main">
+    				<h2>Your iteams</h2>
+    				<iframe src="Product&description.html"></iframe>
+    				<iframe src="Product&description2.html"></iframe>
+    				<iframe src="Product&description3.html"></iframe>
+  			</div>
+  			<div class="right">
+    				<button type="button">Edit</button>
+    				<button type="button"><a href="Check_Out.html">Check Out</a></button>
+    				<button type="button">Clear cart</button>
+    				<p class="Heading_back"><b>Sum Total: 499.97</b></p>
+  			</div>
+		</div>
+	</body>
+</html>

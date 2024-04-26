@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  		<link href="styling_file.css" rel="stylesheet">
+  	</head>
+	<body>
+		<div style="overflow:auto">
+  			<div class="menu">
+  				<img src="formal1.jpg" style="width:100%">
+  			</div>
+  			<div class="main">
+    				<h3>Price: R129.99</h3>
+    				<h4>Formal Modern Woman suit</h4>
+    				<p>Product Description</p>
+    				<p><i>Lovely business formal top that comes in various sizes and colours. Top is made out of pure cotton material imported from Germany and was designed by one of our own talented designers Lewis Hamilton</i></p>
+  			</div>
+  			<div class="right">
+    				<button type="button">Add iteam</button>
+    				<button type="button">Colours</button>
+    				<button type="button">Sizes</button>
+    				<button type="button">Reviews</button>
+    				<button type="button">Quantity</button>
+  			</div>
+		</div>
+	</body>
+</html>

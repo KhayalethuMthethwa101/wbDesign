@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  		<link href="styling_file.css" rel="stylesheet">
+  	</head>
+	<body>
+		<div style="overflow:auto">
+  			<div class="menu">
+  				<img src="African men.jpg">
+  			</div>
+			<div class="main">
+    				<h3>Price: R399.99</h3>
+    				<h4>African Black shirt</h4>
+    				<p>Product Description</p>
+    				<p><i>Smart Casual african design. This is one of our signiture clothing brands with high levels of demand coming from domestic and international consumer. The comfortable but durable fiber used is specially made in our own factories with the design imported from Kenya.</i></p>
+    			</div>
+			<div class="right">
+    				<button type="button">Add iteam</button>
+    				<button type="button">Colours</button>
+    				<button type="button">Sizes</button>
+    				<button type="button">Reviews</button>
+    				<button type="button">Quantity</button>
+  			</div>
+		</div>
+	</body>
+</html>

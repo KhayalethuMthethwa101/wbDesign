@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+  		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="styling_file.css" rel="stylesheet">
+  	</head>
+	<body>
+		<div class="Heading_back">
+  			<h1 class="Heading">Jozi Fashion Collection</h1>
+  			<h2>Where kasi flare meets innovative design</h2>
+		</div>
+		<div style="overflow:auto">
+  			<div 	class="menu">
+    				<button type="button"><a href="About_Us.html">About Us<a></button>
+    				<button type="button"><a href="Product_Category0.html">Product Category</a></button>
+    				<button type="button"><a href="Shopping_Category.html">Shopping Category</a></button>
+    				<button type="button"><a href="Contact_Us.html">Contact Us</a></button> 
+  			</div>
+  			<div class="main">
+    				<h2>Welcome to the best fashion website, with amazing deals</h2>
+    				<p>Get the best out of the current fashion trends and many more clothing options.</p>
+    				<img src="fashion collection.jpg" style="width:100%">
+		  	</div>
+  			<div class="right">
+    				<button type="button"><a href="Shopping_cart.html">View Shopping Cart</a></button>
+    				<button type="button"><a href="Check_Out.html">Check Out</a></button>
+  			</div>
+		</div>
+	</body>
+</html>
